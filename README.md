@@ -1,1 +1,1 @@
-# Acceptance-Tests
+Acceptance Tests of the principal User Stories
