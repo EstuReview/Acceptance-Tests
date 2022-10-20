@@ -1,8 +1,4 @@
 Feature: Notificaciones sobre nuevas reseñas en instituciones educativas
-    Como padre de familia, quiero que me notifiquen 
-    cuando alguien haya colocado una reseña sobre 
-    la institución de mi interés, para que pueda estar 
-    segura y realizar la matrícula de mi menor hijo de forma más rápida.
 
     Scenario: Padre de familia espera notificación
 
