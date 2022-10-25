@@ -6,6 +6,8 @@ Cuando el universitario da clic en <nombre_usuario_universitario>
 Y el universitario redacta un mensaje
 Y el universitario da clic en el botón Enviar mensaje
 Entonces el sistema envía el mensaje al reseñador.
+Example:
+|nombre_usuario_universitario|
 |Santiago Lopez Efrain|
 |Linda Maria Marcos Chirinos|
 |Samuel Luis Guerra Paz|
