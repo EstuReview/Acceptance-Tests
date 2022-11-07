@@ -10,5 +10,5 @@ Example:
 | El colegio tiene un buen nivel de enseñanza pero no me gusta PORQUE su infraestructura es pesima para el precio| |2| |-| |1| |-|
 | Es un mal colegio PORQUE  no tomó cartas sobre el asunto en el robo de un celular en el salón de mi hijo ||3| |Voley| |3| |cancha de voley|
 | El mejor colegio que existe en Lima PORQUE los profesores son muy experimentados y las aulas están siempre limpias||5| |Natación| |5| | piscina|
-
+ 
 
